@@ -44,5 +44,5 @@ nmap <Target_IP>
 nmap -sV <Target_IP>
 ```
 ## Conclusion
-- This task demonstrated how Nmap can be used to perform basic network scanning to identify open ports and running services on a target system. The scan was conducted in an authorized local lab environment and provided insight into network reconnaissance from a defensive security perspective.
+This task demonstrated how Nmap can be used to perform basic network scanning to identify open ports and running services on a target system. The scan was conducted in an authorized local lab environment and provided insight into network reconnaissance from a defensive security perspective.
 
