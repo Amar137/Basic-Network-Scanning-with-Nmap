@@ -24,3 +24,21 @@ To perform a network scan to identify open ports and running services using Nmap
 - Scan was conducted on an authorized local lab environment
 - No exploitation was performed
 - IP addresses were private and non-routable
+
+## Commands Used
+
+```bash
+# Update system packages
+sudo apt update
+
+# Install Nmap
+sudo apt install nmap
+
+# Verify Nmap installation
+nmap --version
+
+# Perform a basic scan on a private IP
+nmap <Target_IP>
+
+# Perform service and version detection
+nmap -sV <Target_IP>
