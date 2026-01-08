@@ -43,6 +43,11 @@ nmap <Target_IP>
 # Perform service and version detection
 nmap -sV <Target_IP>
 ```
+
+## Demo Video
+A short demonstration showing how to perform a basic network scan using Nmap:  
+https://drive.google.com/file/d/1Wuu7Lfn0SEVnHtppkYm6HlDPhV9VTnmG/view?usp=sharing
+
 ## Conclusion
 This task demonstrated how Nmap can be used to perform basic network scanning to identify open ports and running services on a target system. The scan was conducted in an authorized local lab environment and provided insight into network reconnaissance from a defensive security perspective.
 
