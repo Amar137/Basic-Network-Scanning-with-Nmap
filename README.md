@@ -42,8 +42,7 @@ nmap <Target_IP>
 
 # Perform service and version detection
 nmap -sV <Target_IP>
-
-
+```
 ## Conclusion
-This scan helped identify open ports and services on a private host, demonstrating how Nmap can be used for basic reconnaissance in cybersecurity.
+- This task demonstrated how Nmap can be used to perform basic network scanning to identify open ports and running services on a target system. The scan was conducted in an authorized local lab environment and provided insight into network reconnaissance from a defensive security perspective.
 
